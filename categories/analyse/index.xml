@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog on Mon Portfolio</title>
-    <link>https://chevaltin.github.io/Portfolio/blog/</link>
-    <description>Recent content in Blog on Mon Portfolio</description>
+    <title>analyse on Mon Portfolio</title>
+    <link>https://chevaltin.github.io/Portfolio/categories/analyse/</link>
+    <description>Recent content in analyse on Mon Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 17 Jun 2022 22:28:28 +0200</lastBuildDate><atom:link href="https://chevaltin.github.io/Portfolio/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 25 Apr 2022 09:56:26 +0200</lastBuildDate><atom:link href="https://chevaltin.github.io/Portfolio/categories/analyse/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Pourquoi est-ce que j&#39;aime &#39;Death of the Law&#39; ?</title>
       <link>https://chevaltin.github.io/Portfolio/blog/deathofthelaw/</link>

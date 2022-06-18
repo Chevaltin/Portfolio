@@ -1,36 +1,72 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on My New Hugo Site</title>
+    <title>Categories on Mon Portfolio</title>
     <link>https://chevaltin.github.io/Portfolio/categories/</link>
-    <description>Recent content in Categories on My New Hugo Site</description>
+    <description>Recent content in Categories on Mon Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 23 May 2022 09:32:47 +0200</lastBuildDate><atom:link href="https://chevaltin.github.io/Portfolio/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Développement Web</title>
-      <link>https://chevaltin.github.io/Portfolio/categories/d%C3%A9veloppement-web/</link>
+      <title>Méthode Meurise</title>
+      <link>https://chevaltin.github.io/Portfolio/categories/m%C3%A9thode-meurise/</link>
       <pubDate>Mon, 23 May 2022 09:35:04 +0200</pubDate>
       
-      <guid>https://chevaltin.github.io/Portfolio/categories/d%C3%A9veloppement-web/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Python</title>
-      <link>https://chevaltin.github.io/Portfolio/categories/python/</link>
-      <pubDate>Mon, 23 May 2022 09:35:04 +0200</pubDate>
-      
-      <guid>https://chevaltin.github.io/Portfolio/categories/python/</guid>
+      <guid>https://chevaltin.github.io/Portfolio/categories/m%C3%A9thode-meurise/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Projet</title>
       <link>https://chevaltin.github.io/Portfolio/categories/projet/</link>
-      <pubDate>Mon, 09 May 2022 09:08:12 +0200</pubDate>
+      <pubDate>Mon, 23 May 2022 09:35:04 +0200</pubDate>
       
       <guid>https://chevaltin.github.io/Portfolio/categories/projet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SQL</title>
+      <link>https://chevaltin.github.io/Portfolio/categories/sql/</link>
+      <pubDate>Mon, 23 May 2022 09:35:04 +0200</pubDate>
+      
+      <guid>https://chevaltin.github.io/Portfolio/categories/sql/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Java</title>
+      <link>https://chevaltin.github.io/Portfolio/categories/java/</link>
+      <pubDate>Mon, 09 May 2022 09:08:12 +0200</pubDate>
+      
+      <guid>https://chevaltin.github.io/Portfolio/categories/java/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>analyse</title>
+      <link>https://chevaltin.github.io/Portfolio/categories/analyse/</link>
+      <pubDate>Mon, 25 Apr 2022 09:56:26 +0200</pubDate>
+      
+      <guid>https://chevaltin.github.io/Portfolio/categories/analyse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vocaloid</title>
+      <link>https://chevaltin.github.io/Portfolio/categories/vocaloid/</link>
+      <pubDate>Mon, 25 Apr 2022 09:56:26 +0200</pubDate>
+      
+      <guid>https://chevaltin.github.io/Portfolio/categories/vocaloid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fantasy</title>
+      <link>https://chevaltin.github.io/Portfolio/categories/fantasy/</link>
+      <pubDate>Mon, 25 Apr 2022 09:49:52 +0200</pubDate>
+      
+      <guid>https://chevaltin.github.io/Portfolio/categories/fantasy/</guid>
       <description></description>
     </item>
     

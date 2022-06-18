@@ -1,47 +1,48 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
+    <title>Mon Portfolio</title>
     <link>https://chevaltin.github.io/Portfolio/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <description>Recent content on Mon Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 23 May 2022 09:35:04 +0200</lastBuildDate><atom:link href="https://chevaltin.github.io/Portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 17 Jun 2022 22:28:28 +0200</lastBuildDate><atom:link href="https://chevaltin.github.io/Portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Article2</title>
-      <link>https://chevaltin.github.io/Portfolio/projets/article2/</link>
+      <title>Base de données de Minéralogie</title>
+      <link>https://chevaltin.github.io/Portfolio/projets/bdpierres/</link>
       <pubDate>Mon, 23 May 2022 09:35:04 +0200</pubDate>
       
-      <guid>https://chevaltin.github.io/Portfolio/projets/article2/</guid>
-      <description>Vos bases Toutes vos bases sont nous appartiennent</description>
+      <guid>https://chevaltin.github.io/Portfolio/projets/bdpierres/</guid>
+      <description>Développement d&amp;rsquo;une Base de Donnée de fossiles et de pierres précieuses Pourquoi débuter ce projet ? Étant un collectionneur amateur de fossiles et de pierres précieuses, un moyen de garder facilement des informations sur chacun de mes spécimens ainsi que les numéroter est quelque chose de vital, tous les collectionneurs de ma connaissance ont un système de ce type : ils numérotent tous leurs spécimens de façon à savoir quand ils les ont eu, s&amp;rsquo;ils les ont acheté ou récupéré par eux-même, etc.</description>
     </item>
     
     <item>
-      <title>Article</title>
-      <link>https://chevaltin.github.io/Portfolio/projets/article/</link>
+      <title>Mini-RPG</title>
+      <link>https://chevaltin.github.io/Portfolio/projets/minirpg/</link>
       <pubDate>Mon, 09 May 2022 09:08:12 +0200</pubDate>
       
-      <guid>https://chevaltin.github.io/Portfolio/projets/article/</guid>
-      <description>PADORU TIME hashire sori yo Kaze no you ni suki ni ara wo PADORU PADORUUUUUU</description>
+      <guid>https://chevaltin.github.io/Portfolio/projets/minirpg/</guid>
+      <description>Développement d&amp;rsquo;un mini-jeu type RPG Pourquoi débuter ce projet ? Étant moi-même un grand fan de Role Playing Games, j&amp;rsquo;ai toujours rêvé d&amp;rsquo;en créer un. La volonté de faire un mini-jeu inspiré du tout premier Zelda m&amp;rsquo;est venu lorsque, en cours d&amp;rsquo;IHM, nous avons développé, à l&amp;rsquo;aide de classes fournis par les professeurs, un bomberman. Une seule phrase m&amp;rsquo;est venu en tête à ce moment-là : &amp;ldquo;Pourquoi est-ce que je ne ferais pas quelque chose de ce style de A à Z?</description>
     </item>
     
     <item>
-      <title>Article2</title>
-      <link>https://chevaltin.github.io/Portfolio/blog/article2/</link>
+      <title>Pourquoi est-ce que j&#39;aime &#39;Death of the Law&#39; ?</title>
+      <link>https://chevaltin.github.io/Portfolio/blog/deathofthelaw/</link>
       <pubDate>Mon, 25 Apr 2022 09:56:26 +0200</pubDate>
       
-      <guid>https://chevaltin.github.io/Portfolio/blog/article2/</guid>
-      <description>J&amp;rsquo;aime Doki Doki Literature Club C&amp;rsquo;est très bien Doki Doki Literature Club
-Allez jouer à DDLC </description>
+      <guid>https://chevaltin.github.io/Portfolio/blog/deathofthelaw/</guid>
+      <description>Bonjour et bienvenue dans ce premier article de mon blog ! Aujourd’hui, je vais présenter une chanson qui me tient particulièrement à cœur, de par son sens, son esthétique, son genre musical ainsi que, tout simplement, la musique en elle-même !
+Je tiens tout de même à préciser qu’une analyse entière de la chanson ne sera pas réalisée ici, de par le fait que celle-ci est en japonais et que, en terme de langue japonaise, j’en suis encore à apprendre mes katakanas (donc, pour ceux n’y connaissant rien, je n’en suis qu’à l’étape de l’apprentissage de l’alphabet).</description>
     </item>
     
     <item>
-      <title>Mon Premier Article</title>
-      <link>https://chevaltin.github.io/Portfolio/blog/mon-premier-article/</link>
+      <title>L&#39;Assassin Royal, une œuvre qui m&#39;a marqué</title>
+      <link>https://chevaltin.github.io/Portfolio/blog/assassin-royal/</link>
       <pubDate>Mon, 25 Apr 2022 09:49:52 +0200</pubDate>
       
-      <guid>https://chevaltin.github.io/Portfolio/blog/mon-premier-article/</guid>
-      <description>Bonjour, ceci est mon premier article !</description>
+      <guid>https://chevaltin.github.io/Portfolio/blog/assassin-royal/</guid>
+      <description>Bonjour à tous, aujourd&amp;rsquo;hui nous allons parler d&amp;rsquo;une série de livre qui m&amp;rsquo;a énormément marqué : L&amp;rsquo;Assassin Royal, de Robin Hobb
+Tout d&amp;rsquo;abord, Qui est Robin Hobb ? Robin Hobb est le pseudonyme d&amp;rsquo;une écrivaine américaine de fantasy née le 5 mars 1952 en Californie : Margaret Astrid Lindholm Ogden. C&amp;rsquo;est avec ce pseudonyme qu&amp;rsquo;elle écrira l&amp;rsquo;univers qui fera son succès : celui de L&amp;rsquo;Assassin Royal, des Aventuriers de la Mer, des Cités des Anciens, et de la suite directe de L&amp;rsquo;Assassin Royal : Le Fou et l&amp;rsquo;Assassin, tous publiés en France aux éditions Pygmalion.</description>
     </item>
     
   </channel>

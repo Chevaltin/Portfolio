@@ -1,19 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projet on My New Hugo Site</title>
+    <title>Projet on Mon Portfolio</title>
     <link>https://chevaltin.github.io/Portfolio/categories/projet/</link>
-    <description>Recent content in Projet on My New Hugo Site</description>
+    <description>Recent content in Projet on Mon Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 09 May 2022 09:08:12 +0200</lastBuildDate><atom:link href="https://chevaltin.github.io/Portfolio/categories/projet/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 23 May 2022 09:35:04 +0200</lastBuildDate><atom:link href="https://chevaltin.github.io/Portfolio/categories/projet/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Article</title>
-      <link>https://chevaltin.github.io/Portfolio/projets/article/</link>
+      <title>Base de données de Minéralogie</title>
+      <link>https://chevaltin.github.io/Portfolio/projets/bdpierres/</link>
+      <pubDate>Mon, 23 May 2022 09:35:04 +0200</pubDate>
+      
+      <guid>https://chevaltin.github.io/Portfolio/projets/bdpierres/</guid>
+      <description>Développement d&amp;rsquo;une Base de Donnée de fossiles et de pierres précieuses Pourquoi débuter ce projet ? Étant un collectionneur amateur de fossiles et de pierres précieuses, un moyen de garder facilement des informations sur chacun de mes spécimens ainsi que les numéroter est quelque chose de vital, tous les collectionneurs de ma connaissance ont un système de ce type : ils numérotent tous leurs spécimens de façon à savoir quand ils les ont eu, s&amp;rsquo;ils les ont acheté ou récupéré par eux-même, etc.</description>
+    </item>
+    
+    <item>
+      <title>Mini-RPG</title>
+      <link>https://chevaltin.github.io/Portfolio/projets/minirpg/</link>
       <pubDate>Mon, 09 May 2022 09:08:12 +0200</pubDate>
       
-      <guid>https://chevaltin.github.io/Portfolio/projets/article/</guid>
-      <description>PADORU TIME hashire sori yo Kaze no you ni suki ni ara wo PADORU PADORUUUUUU</description>
+      <guid>https://chevaltin.github.io/Portfolio/projets/minirpg/</guid>
+      <description>Développement d&amp;rsquo;un mini-jeu type RPG Pourquoi débuter ce projet ? Étant moi-même un grand fan de Role Playing Games, j&amp;rsquo;ai toujours rêvé d&amp;rsquo;en créer un. La volonté de faire un mini-jeu inspiré du tout premier Zelda m&amp;rsquo;est venu lorsque, en cours d&amp;rsquo;IHM, nous avons développé, à l&amp;rsquo;aide de classes fournis par les professeurs, un bomberman. Une seule phrase m&amp;rsquo;est venu en tête à ce moment-là : &amp;ldquo;Pourquoi est-ce que je ne ferais pas quelque chose de ce style de A à Z?</description>
     </item>
     
   </channel>

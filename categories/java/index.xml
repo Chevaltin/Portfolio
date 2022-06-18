@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Java on Mon Portfolio</title>
+    <link>https://chevaltin.github.io/Portfolio/categories/java/</link>
+    <description>Recent content in Java on Mon Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 09 May 2022 09:08:12 +0200</lastBuildDate><atom:link href="https://chevaltin.github.io/Portfolio/categories/java/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mini-RPG</title>
+      <link>https://chevaltin.github.io/Portfolio/projets/minirpg/</link>
+      <pubDate>Mon, 09 May 2022 09:08:12 +0200</pubDate>
+      
+      <guid>https://chevaltin.github.io/Portfolio/projets/minirpg/</guid>
+      <description>Développement d&amp;rsquo;un mini-jeu type RPG Pourquoi débuter ce projet ? Étant moi-même un grand fan de Role Playing Games, j&amp;rsquo;ai toujours rêvé d&amp;rsquo;en créer un. La volonté de faire un mini-jeu inspiré du tout premier Zelda m&amp;rsquo;est venu lorsque, en cours d&amp;rsquo;IHM, nous avons développé, à l&amp;rsquo;aide de classes fournis par les professeurs, un bomberman. Une seule phrase m&amp;rsquo;est venu en tête à ce moment-là : &amp;ldquo;Pourquoi est-ce que je ne ferais pas quelque chose de ce style de A à Z?</description>
+    </item>
+    
+  </channel>
+</rss>

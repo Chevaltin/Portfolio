@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html><head>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.3/css/bulma.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/all.css" integrity="sha384-DyZ88mC6Up2uqS4h/KRgHuoeGwBcD4Ng9SiP4dIRy0EXTlnuz47vAwmeGwVChigm" crossorigin="anonymous"/>
+    <link rel="stylesheet" href="/Portfolio/css/style.css" />
+</head><body><header>
+    <nav class="navbar" role="navigation">
+        <div class="container">
+            <div class="navbar-brand">
+                <a href="/Portfolio" title="home" class="navbar-item">
+                    <span class="logo"><h1>Mon Portfolio</h1></span>
+                </a>
+                
+                <a href="https://github.com/Chevaltin" class="navbar-item is-hidden-desktop" title="GitHub"><span
+                        class="icon"><i class='fab fa-github'></i></span></a>
+                
+                <a href="https://twitter.com/" class="navbar-item is-hidden-desktop" title="Twitter"><span
+                        class="icon"><i class='fab fa-twitter'></i></span></a>
+                
+                <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false">
+                    <span aria-hidden="true"></span>
+                    <span aria-hidden="true"></span>
+                    <span aria-hidden="true"></span>
+                </a>
+            </div>
+
+            <div class="navbar-menu">
+                <div class="navbar-start">
+                    
+                    <a href="/Portfolio/blog" class="navbar-item">Blog</a>
+                    
+                    <a href="/Portfolio/categories" class="navbar-item">Catégories</a>
+                    
+                    <a href="/Portfolio/projets" class="navbar-item">Projets</a>
+                    
+                    <a href="/Portfolio/a-propos-de" class="navbar-item">À propos</a>
+                    
+                </div>
+                <div class="navbar-end">
+                    
+                    <a href="https://github.com/Chevaltin" class="navbar-item is-hidden-touch" title="GitHub"><span
+                            class="icon"><i class='fab fa-github'></i></span></a>
+                    
+                    <a href="https://twitter.com/" class="navbar-item is-hidden-touch" title="Twitter"><span
+                            class="icon"><i class='fab fa-twitter'></i></span></a>
+                    
+                </div>
+            </div>
+
+        </div>
+    </nav>
+    <script>
+        $(document).ready(function () {
+            $(".navbar-burger").click(function () {
+                $(".navbar-burger").toggleClass("is-active");
+                $(".navbar-menu").toggleClass("is-active");
+            })
+        })
+    </script>
+</header>
+<div id="content">
+<h1 class="title">Mini-RPG</h1>
+<div class="columns">
+  
+    <div class="column is-one-fifth">
+      <img src="Portfolio/images/anonymous.png" />
+    </div>
+  
+  <div class="column is-one-fifth">
+    Moi
+    May 9, 2022
+  </div>
+  <div class="column">
+  3  Minutes </p>
+  <a href="/Portfolio/categories/projet">Projet</a>, <a href="/Portfolio/categories/java">Java</a>
+  </div>
+</div>
+<div class="content"> 
+  <h1 id="développement-dun-mini-jeu-type-rpg">Développement d&rsquo;un mini-jeu type RPG</h1>
+<h2 id="pourquoi-débuter-ce-projet-">Pourquoi débuter ce projet ?</h2>
+<p>Étant moi-même un grand fan de <em>Role Playing Games</em>, j&rsquo;ai toujours rêvé d&rsquo;en créer un. La volonté de faire un mini-jeu inspiré du tout premier Zelda m&rsquo;est venu lorsque, en cours d&rsquo;IHM, nous avons développé, à l&rsquo;aide de classes fournis par les professeurs, un bomberman. Une seule phrase m&rsquo;est venu en tête à ce moment-là : <em>&ldquo;Pourquoi est-ce que je ne ferais pas quelque chose de ce style de A à Z?&rdquo;</em>. Il m&rsquo;a donc fallu trouver quelque chose qui ne soit pas trop compliqué à faire <em>pour ne pas perdre la motivation au bout de 2 semaines de développement à cause de la difficulté de la tâche pour une personne seule et ainsi me mettre à déprimer et me détester de ne pas réussir à finir un projet personnel</em>. C&rsquo;est en rejouant au tout premier Zelda sur la console virtuelle de ma 3DS que m&rsquo;est venu cette idée : <em>&ldquo;Au pire, pourquoi est-ce que je ne referais pas qu&rsquo;un seul écran de ce jeu, pour que ce ne soit pas trop dur à faire ?&rdquo;</em> et ainsi, la base du projet était construite : ma motivation venait de naître.</p>
+<h2 id="brève-description-du-projet">Brève description du projet</h2>
+<p>Il sera donc constitué d&rsquo;une recréation d&rsquo;un écran du jeu vidéo <em>The Legend of Zelda</em> avec un compteur de vies et de rubis et d&rsquo;ennemis qui apparaissent à des endroits aléatoires de la carte et qui peuvent lâcher des objets en mourant.</p>
+<p>Les compteurs seront donc placé en haut à gauche de l&rsquo;écran et l&rsquo;utilisateur pourra se déplacer soit avec les touches <code>Z,Q,S et D</code> ou les flèches directionnelles. Il pourra aussi attaquer à l&rsquo;aide soit du clic gauche soit d&rsquo;un appui sur la barre espace.
+PLusieurs types d&rsquo;ennemis pourront apparaître :</p>
+<ul>
+<li>des octoroks, capable de tirer des rochers ;</li>
+<li>des armos, qui attaqueront au corps à corps, seront lents mais plus résistants ;</li>
+<li>des &ldquo;leevers&rdquo;, qui attaqueront aussi au corps à corps, seront un peu plus rapides mais aussi plus faibles.</li>
+</ul>
+<p>Les ennemis pourront soit lâcher :</p>
+<ul>
+<li>des cœurs, rendant 1 vie ;</li>
+<li>des rubis verts, qui valent 1 rubis ;</li>
+<li>des rubis bleus, qui en valent 5 ;</li>
+<li>une fée, qui rend toute la vie mais se déplace.</li>
+</ul>
+<h2 id="découpage-du-projet">Découpage du projet</h2>
+<p>Bien que l&rsquo;étape d&rsquo;analyse ne soit pas encore avancée, j&rsquo;arrive tout de même à visualiser certaines classes, tels que :</p>
+<ul>
+<li>Une classe abstraite <code>Ennemis</code> dont hériteront toutes celles représentant des ennemis ;</li>
+<li>Une classe représentant un joueur ;</li>
+<li>Une classe représentant la carte en elle-même ;</li>
+<li>Une classe représentant une case de la carte ;</li>
+<li>Une classe abstraite représentant les objets ;</li>
+<li>Une façade pour toutes ces classes du modèle ;</li>
+<li>Un contrôleur ;</li>
+<li>Une classe pour lancer le programme.</li>
+</ul>
+<h2 id="ce-que-je-vais-apprendre-grâce-à-ce-projet">Ce que je vais apprendre grâce à ce projet</h2>
+<p>Ce projet va m&rsquo;aider à mieux cerner l&rsquo;utilisation de JavaFX mais aussi m&rsquo;apprendre à créer des intelligences artificielles pour les ennemis, afin qu&rsquo;ils ne restent pas immobiles sans attaquer. Je vais aussi apprendre à gérer la mort des ennemis, afin qu&rsquo;ils lâchent des objets, mais aussi à gérer le cas où le joueur meurt, pour que ce soit impossible de se déplacer lorsque l&rsquo;on a plus de vie.</p>
+
+
+</div>
+
+
+        </div><footer class="footer">
+    <div class="container">
+        <div class="columns has-text-centered">
+            
+	            <div class="column is-narrow">
+		            <a href="/Portfolio/blog" class="">Blog</a>
+	            </div>
+            
+	            <div class="column is-narrow">
+		            <a href="/Portfolio/projets" class="">Projets</a>
+	            </div>
+            
+	            <div class="column is-narrow">
+		            <a href="/Portfolio/a-propos-de" class="">À propos</a>
+	            </div>
+            
+        </div>
+    </div>
+</footer>
+</body>
+</html>

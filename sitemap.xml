@@ -2,37 +2,49 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://chevaltin.github.io/Portfolio/projets/article2/</loc>
-    <lastmod>2022-05-23T09:35:04+02:00</lastmod>
-  </url><url>
-    <loc>https://chevaltin.github.io/Portfolio/categories/d%C3%A9veloppement-web/</loc>
-    <lastmod>2022-05-23T09:35:04+02:00</lastmod>
+    <loc>https://chevaltin.github.io/Portfolio/blog/</loc>
+    <lastmod>2022-06-17T22:28:28+02:00</lastmod>
   </url><url>
     <loc>https://chevaltin.github.io/Portfolio/</loc>
+    <lastmod>2022-06-17T22:28:28+02:00</lastmod>
+  </url><url>
+    <loc>https://chevaltin.github.io/Portfolio/projets/bdpierres/</loc>
+    <lastmod>2022-05-23T09:35:04+02:00</lastmod>
+  </url><url>
+    <loc>https://chevaltin.github.io/Portfolio/categories/m%C3%A9thode-meurise/</loc>
+    <lastmod>2022-05-23T09:35:04+02:00</lastmod>
+  </url><url>
+    <loc>https://chevaltin.github.io/Portfolio/categories/projet/</loc>
     <lastmod>2022-05-23T09:35:04+02:00</lastmod>
   </url><url>
     <loc>https://chevaltin.github.io/Portfolio/projets/</loc>
     <lastmod>2022-05-23T09:35:04+02:00</lastmod>
   </url><url>
-    <loc>https://chevaltin.github.io/Portfolio/categories/python/</loc>
+    <loc>https://chevaltin.github.io/Portfolio/categories/sql/</loc>
     <lastmod>2022-05-23T09:35:04+02:00</lastmod>
   </url><url>
     <loc>https://chevaltin.github.io/Portfolio/categories/</loc>
     <lastmod>2022-05-23T09:32:47+02:00</lastmod>
   </url><url>
-    <loc>https://chevaltin.github.io/Portfolio/projets/article/</loc>
+    <loc>https://chevaltin.github.io/Portfolio/categories/java/</loc>
     <lastmod>2022-05-09T09:08:12+02:00</lastmod>
   </url><url>
-    <loc>https://chevaltin.github.io/Portfolio/categories/projet/</loc>
+    <loc>https://chevaltin.github.io/Portfolio/projets/minirpg/</loc>
     <lastmod>2022-05-09T09:08:12+02:00</lastmod>
   </url><url>
-    <loc>https://chevaltin.github.io/Portfolio/blog/article2/</loc>
+    <loc>https://chevaltin.github.io/Portfolio/categories/analyse/</loc>
     <lastmod>2022-04-25T09:56:26+02:00</lastmod>
   </url><url>
-    <loc>https://chevaltin.github.io/Portfolio/blog/</loc>
+    <loc>https://chevaltin.github.io/Portfolio/blog/deathofthelaw/</loc>
     <lastmod>2022-04-25T09:56:26+02:00</lastmod>
   </url><url>
-    <loc>https://chevaltin.github.io/Portfolio/blog/mon-premier-article/</loc>
+    <loc>https://chevaltin.github.io/Portfolio/categories/vocaloid/</loc>
+    <lastmod>2022-04-25T09:56:26+02:00</lastmod>
+  </url><url>
+    <loc>https://chevaltin.github.io/Portfolio/categories/fantasy/</loc>
+    <lastmod>2022-04-25T09:49:52+02:00</lastmod>
+  </url><url>
+    <loc>https://chevaltin.github.io/Portfolio/blog/assassin-royal/</loc>
     <lastmod>2022-04-25T09:49:52+02:00</lastmod>
   </url><url>
     <loc>https://chevaltin.github.io/Portfolio/tags/</loc>
